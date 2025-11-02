@@ -1,0 +1,25 @@
+.dmg-search-results {
+  margin-top: 1em;
+  min-height: 150px;
+
+  ul {
+    margin-top: 0.5em;
+    padding-left: 0;
+    list-style: none;
+  }
+  li {
+    margin-bottom: 0.25em;
+  }
+  button.is-link {
+    text-align: left;
+    width: 100%;
+    padding: 2px 0;
+  }
+}
+
+.dmg-pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1em;
+}
